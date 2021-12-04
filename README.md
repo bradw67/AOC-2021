@@ -1,2 +1,2 @@
-# AOC-2021
-Watch me abuse excel to do these coding challenges
+# Advent of Code 2021
+Watch me abuse spreadsheets to do these coding challenges
